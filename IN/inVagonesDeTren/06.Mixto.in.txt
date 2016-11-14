@@ -1,0 +1,12 @@
+11 100
+tortuga 3 10
+leon 1500 2
+elefante 200 1
+caballo 110 5
+pantera 2000 2
+hipopotamo 1405 3
+serpiente 1450 2
+mono 5 10
+tigre 1470 6
+gorila 1480 3
+Hiena 116 2
